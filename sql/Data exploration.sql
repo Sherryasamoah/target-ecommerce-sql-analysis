@@ -11,8 +11,7 @@ SELECT *
 FROM `Target_Data.geolocation`
 LIMIT 10;
 
-#2. Get the time range between which all
-  the orders were placed.
+#2. Get the time range between which all the orders were placed.
 SELECT 
 MIN(order_purchase_timestamp) as start_date,
 MAX (order_purchase_timestamp) as end_date
