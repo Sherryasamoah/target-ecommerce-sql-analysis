@@ -26,22 +26,23 @@ Visuals
 
 ### 1. Impact on Economy
 - **Interactive Report:** [View in Looker Studio](https://lookerstudio.google.com/reporting/27eaab03-07dc-4791-a2f1-507babffb6c3)
-- **PDF Version:** [Download](visuals/impact_on_economy.pdf)
+- **PDF Version:** [Download](Visuals/impact_on_economy.pdf)
 
 ### 2. Delivery Status
 - **Interactive Report:** [View in Looker Studio](https://lookerstudio.google.com/reporting/540373eb-5bb8-4f14-8997-c4d185a37dd7)
-- **PDF Version:** [Download](visuals/delivery_status.pdf)
+- **PDF Version:** [Download](Visuals/delivery_status.pdf)
 
 ### 3. Payment Analysis
 - **Interactive Report:** [View in Looker Studio](https://lookerstudio.google.com/reporting/88f0a3f7-6a9c-4975-b287-8872e20cb696)
-- **PDF Version:** [Download](visuals/payment_methods.pdf)
+- **PDF Version:** [Download](Visuals/payment_methods.pdf)
 
 ### 4. Trend Across Years
 - **Interactive Report:** [View in Looker Studio](https://lookerstudio.google.com/reporting/c67abdd2-69d4-46ad-93a9-b80ee41151a7)
-- **PDF Version:** [Download](visuals/yearly_trend.pdf)
+- **PDF Version:** [Download](Visuals/yearly_trend.pdf)
 
 ### 5. Order Times
 - **Interactive Report:** [View in Looker Studio](https://lookerstudio.google.com/reporting/f15c4f7e-57b5-40ce-9b99-af4ea0cab1d0)
+- **PDF Version:** [Download](Visuals/order_times.pdf)
 
 
 ## 💾 Example SQL Query
